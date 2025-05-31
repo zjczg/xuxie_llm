@@ -1,0 +1,12 @@
+# 忽略环境配置文件
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# VSCode 设置
+.vscode/
+
+# 日志文件
+*.log
