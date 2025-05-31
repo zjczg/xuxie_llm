@@ -169,11 +169,11 @@ else:
 
 ### 微调后的：
 
-![image-20250531190756051](C:\Users\15143\AppData\Roaming\Typora\typora-user-images\image-20250531190756051.png)
+![image-20250531190756051](https://img.picui.cn/free/2025/05/31/683aea6e42098.png)
 
 ### Ollamam本地的：
 
-![image-20250531190831325](C:\Users\15143\AppData\Roaming\Typora\typora-user-images\image-20250531190831325.png)
+![image-20250531190831325](https://img.picui.cn/free/2025/05/31/683aea6ea2b93.png)
 
 ### 结论：
 
